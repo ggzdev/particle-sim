@@ -29,3 +29,6 @@ NOTE 2: If you want to modify the code, you have to create a new c# project:
 WHEN WORKING IN VISUAL STUDIO: Create new project + copy & paste code
 WHEN WORKING IN VSCODE: use cmd and type 'dotnet new console' to create a project in the current folder then copy & paste the code.
 WHY? --> I cant upload the obj and bin files unfortunatly so you have to try it out for yourself.
+
+
+To close the game, press escape!
