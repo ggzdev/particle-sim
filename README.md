@@ -25,3 +25,7 @@ How to reccompile:
 NOTE: The project is self contained which means it runs without any additional installs such as interpreters or the .net runtime, but
 all the files in the program bin folder are REQUIRED!
 
+NOTE 2: If you want to modify the code, you have to create a new c# project:
+WHEN WORKING IN VISUAL STUDIO: Create new project + copy & paste code
+WHEN WORKING IN VSCODE: use cmd and type 'dotnet new console' to create a project in the current folder then copy & paste the code.
+WHY? --> I cant upload the obj and bin files unfortunatly so you have to try it out for yourself.
